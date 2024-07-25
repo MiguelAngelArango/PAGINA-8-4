@@ -13,16 +13,17 @@
 }
 body{
     background-image: url("Fondos.jpg");
-    background-repeat: no-repeat;
+   
 
 }
-.imgtecno.jpg{
+.img1{
 
-height: 300px;
-width: 300px;
-background-image : url("imgtecno1");
-
+height: 500px;
+width: 1438px;
+background-image : url("imgtecno.jpg");
+float: left;
 
 
 
 }
+
