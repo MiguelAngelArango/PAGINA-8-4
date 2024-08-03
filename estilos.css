@@ -27,11 +27,88 @@ float: left;
 
 }
 .img2{
-height: 700px;
+height: 6cqb;
 width: 700px;
 background-image: url("mapa\ mental.jpg");
 
+}
+
+.img3{
+    height: 600px;
+    width : 230px;
+    background-image: url("fotoingles1.jpg");
+
+    }
+
+
+.img4{
+
+height: 730px;
+width: 230px ;
+background-image:url( "fotoingles2.jpg");
+
 
 }
+
+
+.img5{
+
+height:170px ;
+width: 230px ;
+background-image:url("fotoingles3.jpg") ;
+
+}
+
+.img6{
+
+height: 200px ;
+width: 230px ;
+background-image: url("fotoingles4.jpg");
+
+}
+
+
+.img7{
+
+height: 420px;
+width: 230px ;
+background-image: url("fotoingles5.jpg");
+
+}
+
+.img8{
+
+height: 360px;
+width: 230px;
+background-image: url("fotoingles6.jpg");
+
+}
+
+.img9{
+
+height: 420px;
+width: 230px;
+background-image: url("fotoingles7.jpg");
+
+}
+
+.img10{
+
+height: 250px;
+width: 230px;
+background-image: url("fotoingles8.jpg");
+
+}
+
+.img11{
+
+height: 380px;
+width: 230px;
+background-image: url("fotoingles9.jpg");
+
+}
+
+
+
 
 
